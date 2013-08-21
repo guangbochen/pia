@@ -1,6 +1,6 @@
 /***********************css for the navigation bar*******************/
 .navbar-default {
-  background-color: #FFFFFF;
+  background-color: #CE2524;
   border-color: #e7e7e7;
 }
 .nav {
@@ -8,14 +8,19 @@
   /*padding-left: 0px;*/
 }
 .nav li a:hover {
-  background-color: #E7E7E7 !important;
+  /*background-color: #E7E7E7 !important;*/
+  background-color: #690800 !important;
 }
 .myNav a{
-  color: #28180A !important;
+  /*color: #28180A !important;*/
+  color: #FFFFFF !important;
   font-weight: 500;
   font-size: 15px;
 }
 .active a {
+/*  color: #000000 !important;
+  background-color: #FFFFFF !important;
+*/  
   color: #000000 !important;
   background-color: #FFFFFF !important;
 /*  background-image:url('../img/nav_sub_arrow.png') !important;
@@ -26,7 +31,9 @@
 .expand {
   max-width: 1240px !important;
 }
-
+.navbar-brand {
+  padding-top: 0px;
+}
 
 /*******************css for carousel*******************/
 .carousel {
@@ -47,7 +54,7 @@
 
 /*css for the footer*/
 .footer {
-  background-color:#252528;
+  background-color:#CE2524;
   padding-top: 50px;
   color: #FFFFFF;
 }
