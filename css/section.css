@@ -1,0 +1,34 @@
+/************************ global css for 6 sections *************************/
+body {
+}
+.alert {
+}
+.section-flag {
+  background-color: #C51A12;
+  color: #FFFFFF;
+  padding: 10px;
+  width: 40%;
+}
+
+.empty {
+  padding-top: 20px;
+}
+.panel-heading {
+  background-color: #AF241B !important;
+  color: #FFFFFF !important;
+}
+.panel-danger {
+  border-color: #AF241B !important;
+}
+.panel-title {
+  font-size: 24px;
+}
+/************************ css for register page *************************/
+
+
+/************************ css for tranning page *************************/
+.tranning_news {
+  width: 100%;
+  height: 100%;
+}
+
